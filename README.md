@@ -80,6 +80,3 @@ robosim/
 └── package.json
 ```
 
-## License
-
-MIT
